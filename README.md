@@ -65,3 +65,4 @@ Step 5: Play the picture.
 
 
 ## OUTPUT:
+![WhatsApp Image 2025-11-26 at 15 44 55_82208a3e](https://github.com/user-attachments/assets/d72286eb-5bf0-48e2-8d49-38efabdabdca)
